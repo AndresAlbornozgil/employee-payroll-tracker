@@ -16,8 +16,6 @@ This project does not require an installation. However, you are welcome to to ei
 
 ## Usage
 
-![image of Horiseon's website]()
-
 ## Credits
 Andres Albornoz
 
