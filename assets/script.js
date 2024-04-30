@@ -23,7 +23,7 @@ const collectEmployees = function() {
     const employee = { firstName, lastName, salary };
     employeesArray.push(employee);
   }
-  
+
 // Returns the array of employees object
 return employeesArray;
 }
