@@ -22,3 +22,7 @@ Andres Albornoz
 
 ## License
 This project is unlicensed.
+
+## How to Contribute
+
+## Tests
