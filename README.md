@@ -15,7 +15,7 @@ An employee payroll tracker that enables payroll managers to view and manage emp
 This project does not require an installation. However, you are welcome to to either clone the repository and access the project files or fork the repo.
 
 ## Usage
-Deployed on [Github Pages](https://andresalbornozgil.github.io/employee-payroll-tracker/)
+Deployed on [GitHub Pages](https://andresalbornozgil.github.io/employee-payroll-tracker/)
 
 For the employee payroll tracker to work you must:
 
